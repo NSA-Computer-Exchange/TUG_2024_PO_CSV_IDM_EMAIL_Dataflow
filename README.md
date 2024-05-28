@@ -12,4 +12,6 @@ Steps to Install and Configure
 9. In the IDMSendEmail_1 connection point, upload your service accout on the connection tab.
 10. Save and activate the dataflow.
 
+If you encounter any issues, feel free to reach out to rob.thayer@nsacom.com
+
     
